@@ -24,9 +24,8 @@
     },
     "finish": {
       "text": "finish.md"
-    },
+    }
   },
-
   "environment": {
     "showdashboard": true,
     "uilayout": "terminal",

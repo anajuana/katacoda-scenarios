@@ -1,3 +1,3 @@
 # Interactive Katacoda Scenarios
 
-[![](http://shields.katacoda.com/katacoda/abarth/count.svg)](https://www.katacoda.com/abarth "Get your profile on Katacoda.com")
+[![](http://shields.katacoda.com/katacoda/antje-barth/count.svg)](https://www.katacoda.com/antje-barth "Get your profile on Katacoda.com")
